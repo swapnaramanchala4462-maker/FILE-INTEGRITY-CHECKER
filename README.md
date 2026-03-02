@@ -12,7 +12,7 @@ DURATION:12WEEKS
 
 MENTOR: NEELA SANTOSH
 
-# OBJECTIVE:
+## OBJECTIVE:
 
 -Pytho3.
 
@@ -20,7 +20,7 @@ MENTOR: NEELA SANTOSH
 
 -SHA-256 hashing algorithm.
 
-#FEATURES:
+## FEATURES:
 
 -Generate file hash(SHA-256)
 
@@ -30,7 +30,7 @@ MENTOR: NEELA SANTOSH
 
 -Simple command-line interface.
 
-# HOW IT WORKS:
+## HOW IT WORKS:
 
 -Reads file in binary mode.
 
@@ -40,13 +40,13 @@ MENTOR: NEELA SANTOSH
 
 -Detects if file was moodified.
 
-# HOW TO RUN:
+## HOW TO RUN:
 
 -Python file_integrity_checker.py.
 
 -Provide file path when prompted.
 
-# USE CASE:
+## USE CASE:
 
 -Verify dowloaded filles.
 
@@ -54,10 +54,12 @@ MENTOR: NEELA SANTOSH
 
 -Maintain data integrity.
 
-# ETHICAL DISCLAIMER:
+## ETHICAL DISCLAIMER:
 
 -For academic and security awareness purposes only.
 
 ##OUTPUT:
 
 <img width="1003" height="447" alt="Image" src="https://github.com/user-attachments/assets/78ec77dc-2c27-496c-8e5e-c196365d73f5" />
+
+<img width="1015" height="619" alt="Image" src="https://github.com/user-attachments/assets/3df7ad5d-3612-43b6-b3b0-57487f1a990a" />
