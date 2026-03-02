@@ -58,3 +58,6 @@ MENTOR: NEELA SANTOSH
 
 -For academic and security awareness purposes only.
 
+##OUTPUT:
+
+<img width="1003" height="447" alt="Image" src="https://github.com/user-attachments/assets/78ec77dc-2c27-496c-8e5e-c196365d73f5" />
