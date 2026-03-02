@@ -15,7 +15,7 @@ MENTOR: NEELA SANTOSH
 ### OBJECTIVE:
 To verify file integrity using cryptographic hash functions.
 
-###TECHNOLOGIES USED
+### TECHNOLOGIES USED:
 
 -Pytho3.
 
