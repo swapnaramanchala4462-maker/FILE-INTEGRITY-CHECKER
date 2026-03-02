@@ -59,7 +59,7 @@ To verify file integrity using cryptographic hash functions.
 
 ### ETHICAL DISCLAIMER:
 
--For academic and security awareness purposes only.
+For academic and security awareness purposes only.
 
 ## OUTPUT:
 
